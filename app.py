@@ -40,7 +40,7 @@ input_features = pd.DataFrame({
     'bmi':[bmi],
     'children':[children],
     'Smoker':[Smoker],
-  'sex_female':[sex_female],
+    'sex_female':[sex_female],
     'sex_male':[sex_male],
     'Region':[Region]
 })
